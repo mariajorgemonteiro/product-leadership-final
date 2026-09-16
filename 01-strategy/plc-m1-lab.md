@@ -9,12 +9,11 @@ We are a living, private playbook of the user's own history of what helped them 
 We own the users history data of their hard moments and our competitors don't. So we can use it and work on engaging our current users to have a low-effort maintenance cadence check-ins moments.
 - **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** We must be world-class on mental health and wellbeing that is part of our users' life.
   - BUILD: create milestone-based paths / maintenance tracks (based on the current available content)
- - provide clinical advisory as a safety and escalation review function
 - BUY: experimentation analytics , feature flag
 - BUILD: lifecycle/behavioral personalization infrastructure that can tell whether a user is acute, recovering, steady or re-entering from behavioural and self-report signals.
  - BUILD: create and use the individual user playbook to forecast personalise the experience. A record engine.
 - BUILD: create a lifecycle moment design: graduation rhythm and re-entry experiences that feel humane, not like retention tricks; BUY: Lifecycle messaging and orchestration
-- PARTNER: Record Passive signals (sleep, activity) like Apple Health and Google Health connect integration
+- BUILD: Record Passive signals (sleep, activity) like Apple Health and Google Health connect integration
 - PARTNER: Colleagues and Researches. Use academic research to publish outcomes. This is proof for the board and a marketing asset.
 - PARTNER: To make sure we are complaint and within the regulatory boundaries, partner with external counsel to review every feature and claim against the wellness/clinical line.
 - **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** We track our user retention.
