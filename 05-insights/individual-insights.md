@@ -20,4 +20,4 @@ _A few surprising discoveries or insights you gained from the course overall._
 
 _Your main "aha" moment during the project process._
 
-> _____
+> We need to translate the strategy in a way that finance also understands its impact. Not only why it matters for the product and for our users and customers, but also what the financial impact is for the organization.
